@@ -23,4 +23,4 @@ The goal is to provide a **single go-to place** for foundational and advanced in
 
 1. Clone the repository:
      ```bash
-     git clone 
+     git clone https://github.com/DivyaNaragund18/Unix-Linux-Shell-Scripting-.git
